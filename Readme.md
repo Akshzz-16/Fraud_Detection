@@ -1,6 +1,6 @@
 # 🚀 Fraud Detection System
 
-# Output
+# Render webservice OUTPUTS
 ![Start of Service](image.png)
 ![Dropdown Options and Selecting of value](image-1.png)
 ![Output](image-2.png)
@@ -42,7 +42,7 @@ fraud-detection/
 ## 🔥 Installation & Setup
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/your-username/fraud-detection.git
+git clone https://github.com/Akshzz-16/fraud-detection.git
 cd fraud-detection
 ```
 
