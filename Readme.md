@@ -1,5 +1,11 @@
 # 🚀 Fraud Detection System
 
+# Output
+![Start of Service](image.png)
+![Dropdown Options and Selecting of value](image-1.png)
+![Output](image-2.png)
+
+
 ## 📌 Project Overview
 This is a **Machine Learning-based Fraud Detection System** that predicts whether a credit card transaction is fraudulent or not. The system is built using **Flask** for the web interface and **Scikit-learn** for the ML model.
 
