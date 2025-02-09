@@ -86,7 +86,7 @@ Contributions are welcome! Feel free to **fork** the repo, create a new branch, 
 This project is open-source and available under the **MIT License**.
 
 ---
-**🔗 Author:** Your Name  
-**📧 Contact:** your.email@example.com  
-**🌟 GitHub:** [your-username](https://github.com/your-username)
+**🔗 Author:** Akash Vishwakarma    
+**📧 Contact:** akashxjr10vishwakarma@gmail.com  
+**🌟 GitHub:** [Akshzz-16](https://github.com/Akshzz-16)
 
